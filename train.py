@@ -77,3 +77,4 @@ for i in range(num_epochs):
 end_time = time.time()  # 结束计时
 print("Time cost:{}s".format(end_time - start_time))  # 输出训练时间
 # writer.close()
+torch.save(net, 'AlexNet.pth')
