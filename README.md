@@ -1,5 +1,7 @@
 # AlexNet-Pytorch
 A pytorch implementations for AlexNet
+
+The introduction to AlexNet can be found in [link](https://zhuanlan.zhihu.com/p/376526296)
 # 1.Settings
 Using these steps to prepare.
 
@@ -38,5 +40,5 @@ Then run ```train.py```
 Type in terminal ```tensorboard --logdir='../summarywriter' --port=6006```and open the browser
 
 The results can be found in web address:```http://localhost:6006```
-# 3References
-### 1. The introduction to AlexNet can be found in [link](https://zhuanlan.zhihu.com/p/376526296)
+## References
+1.Zhongxin.,"AlexNet网络模型的PyTorch实现",zhihu.com,2021.
