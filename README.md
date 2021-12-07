@@ -23,7 +23,13 @@ Howrver,you should **set num_workers to 0 if you are using Windows**
 If all preparations have been completed,run ```train.py```
 
 ```python train.py```
-## 2.3Using Tensorboard
+## 2.3Evaling
+Run ```test.py```to eval on FashionMNIST dataset.
+
+```python test.py```
+
+Classifying raw images has not been provided yet, it may be updated after a while.
+## 2.4Using Tensorboard
 Firstly,you should remove the comments in the following lines
 
 ```# from torch.utils.tensorboard import SummaryWriter```
