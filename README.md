@@ -18,7 +18,7 @@ All dependencies can be installed into a conda environment with the provided env
 ## 2.1 Adjust the hyper-parameters
 You can change the batch_size according to your GPUs.
 
-Howrver,you should **set num_workers to 0 if you are using Windows**
+Howrver,you should **set num_workers to 0 if you are using Windows**.
 ## 2.2Training
 If all preparations have been completed,run ```train.py```
 
