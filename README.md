@@ -2,6 +2,8 @@
 A pytorch implementations for AlexNet.
 
 The introduction to AlexNet can be found in [link](https://zhuanlan.zhihu.com/p/376526296).
+
+Construction of anaconda and pytorch deep learning environment can be found in [link](https://zhuanlan.zhihu.com/p/443147240)
 # 1.Settings
 Using these steps to prepare.
 
